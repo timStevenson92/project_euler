@@ -3,8 +3,9 @@ http://projecteuler.net/problems
 
 The solutions are written in python and all by me. 
 This is my way of teaching myself python and solving problems with logic, math, and code.
-I'm hoping to improve my skills in these areas and more. I am hoping to update with at least
-one project a week, maybe more. This is depending on how busy I am with school at the moment.
+I'm hoping to improve my skills in these areas and more. I wrote the code in Notepad++ on Windows.
+The best way to compile and view the answer is to download the .py file, 'cd' to the directory where it is located and run that
+script in the commmand prompt.
 
 If you would like to know more or have any constructive criticism, please feel free to 
 contact me via email on my GitHub. Thank you!
